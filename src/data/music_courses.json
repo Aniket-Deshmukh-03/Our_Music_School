@@ -1,0 +1,35 @@
+{
+"courses": [
+  {
+    "id": 1,
+    "title": "Music Theory",
+    "slug": "guitar",
+    "description": "Learn the basics of music theory. In this course you will learn about notes, scales, and chords.",
+    "image": "/images/virat.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Guitar",
+    "description": "Learn how to play the guitar. In this course you will learn how to play chords and melodies.",
+    "image": "/images/jasprit.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Piano",
+    "description": "Learn how to play the piano. In this course you will learn how to play chords and melodies.",
+    "image": "/images/rohit.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Drums",
+    "description": "Learn how to play the drums. In this course you will learn how to play beats and fills.",
+    "image": "/images/dhoni.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Singing",
+    "description": "Learn how to sing. In this course you will learn how to sing in tune and with good technique.",
+    "image": "/images/sachin.jpg"
+  }
+]
+}
