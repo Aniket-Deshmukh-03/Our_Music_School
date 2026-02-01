@@ -8,7 +8,7 @@ function Footer() {
                     About Us
                 </h2>
                 <p className="mb-4 text-justify">
-                    Music School is a premeir online music school that offers a wide range of courses for students of all levels. Our instructors are some of the best in the world and are dedicated to helping you achieve your musical goals.
+                    Music School is a premeir online music school that offers a wide range of courses for students of all levels. Our instructors are some of the best in the country and are dedicated to helping you achieve your musical goals.
                 </p>
             </div>
             <div>
